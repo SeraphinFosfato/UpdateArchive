@@ -13,4 +13,5 @@
 
 <Version: 1.021>
 \js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.021/plugins.js
+\data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.021/Map005.json
 <End of Version>
