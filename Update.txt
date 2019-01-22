@@ -18,7 +18,7 @@
 \data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.021/Map002.json
 <End of Version>
 
-<Version: 1.03>
+<Version: 1.022>
 \data\Map001.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
 \data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
 \data\Map003.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
@@ -42,6 +42,9 @@
 \data\Troops.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
 \data\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
 \data\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+<End of Version>
+
+<Version: 1.022>
 \data\compressed\items.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/items.json
 \data\compressed\Enemies.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Enemies.json
 \data\compressed\DataEX.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/DataEX.json
@@ -65,7 +68,20 @@
 \data\compressed\Troops.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Troops.json
 \data\compressed\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Weapons.json
 \data\compressed\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Windows.json
+<End of Version>
+
+<Version: 1.03>
 \js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/plugins.js
 \js\rpg_core.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_core.js
 \js\rpg_managers.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_managers.js
+<End of Version>
+
+<Version: 1.031>
+\js\SRD_WalkCharBattlers.js
+\js\SRD_BattleGUICore.js
+\js\SRD_DataCompressor.js
+\js\SRD_GameOverCore.js
+\js\SRD_PluginUpdater.js
+\js\SRD_RemoveFadedContinue.js
+\js\SRD_SpellCheck.js
 <End of Version>
