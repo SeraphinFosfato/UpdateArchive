@@ -77,11 +77,12 @@
 <End of Version>
 
 <Version: 1.031>
-\js\SRD_WalkCharBattlers.js
-\js\SRD_BattleGUICore.js
-\js\SRD_DataCompressor.js
-\js\SRD_GameOverCore.js
-\js\SRD_PluginUpdater.js
-\js\SRD_RemoveFadedContinue.js
-\js\SRD_SpellCheck.js
+\js\SRD_WalkCharBattlers.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_WalkCharBattlers.js
+\js\SRD_BattleGUICore.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_BattleGUICore.js
+\js\SRD_DataCompressor.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_DataCompressor.js
+\js\SRD_GameOverCore.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_GameOverCore.js
+\js\SRD_PluginUpdater.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_PluginUpdater.js
+\js\SRD_RemoveFadedContinue.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_RemoveFadedContinue.js
+\js\SRD_SpellCheck.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_SpellCheck.js
+\js\SRD_SuperToolsEngine.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_SuperToolsEngine.js
 <End of Version>
