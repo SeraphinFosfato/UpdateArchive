@@ -3,3 +3,10 @@
 \data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/UpdateArchive/master/Map004.json
 \data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/UpdateArchive/master/Map005.json
 <End of Version>
+
+<Version: 1.02>
+\data\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/MapInfos.json
+\data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/Map004.json
+\data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/Map005.json
+\data\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/Map006.json
+<End of Version>
