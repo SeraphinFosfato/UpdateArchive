@@ -10,3 +10,7 @@
 \data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/Map005.json
 \data\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.02/Map006.json
 <End of Version>
+
+<Version: 1.021>
+\js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.021/plugins.js
+<End of Version>
