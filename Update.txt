@@ -19,6 +19,7 @@
 <End of Version>
 
 <Version: 1.03>
+\icon\icon.png https://imgur.com/Dtnelg9
 \js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/plugins.js
 \js\rpg_core.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_core.js
 \js\rpg_managers.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_managers.js
