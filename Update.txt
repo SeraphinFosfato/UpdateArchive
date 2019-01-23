@@ -34,3 +34,59 @@
 \js\SRD_SpellCheck.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_SpellCheck.js
 \js\SRD_SuperToolsEngine.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_SuperToolsEngine.js
 <End of Version>
+
+<Version: 1.032>
+\data\Map001.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Map003.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Items.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Enemies.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\DataEX.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\CommonEvents.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Classes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Armors.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Animations.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Actors.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Notes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Skills.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\States.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\System.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Tilesets.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Troops.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+\data\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Void.json
+<End of Version>
+
+<Version: 1.033>
+\data\compressed\items.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/items.json
+\data\compressed\Enemies.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Enemies.json
+\data\compressed\DataEX.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/DataEX.json
+\data\compressed\CommonEvents.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/CommonEvents.json
+\data\compressed\Classes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Classes.json
+\data\compressed\Armors.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Armors.json
+\data\compressed\Animations.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Animations.json
+\data\compressed\Actors.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Actors.json
+\data\compressed\Map001.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map001.json
+\data\compressed\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map002.json
+\data\compressed\Map003.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map003.json
+\data\compressed\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map004.json
+\data\compressed\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map005.json
+\data\compressed\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Map006.json
+\data\compressed\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/MapInfos.json
+\data\compressed\Notes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Notes.json
+\data\compressed\Skills.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Skills.json
+\data\compressed\States.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/States.json
+\data\compressed\System.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/System.json
+\data\compressed\Tilesets.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Tilesets.json
+\data\compressed\Troops.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Troops.json
+\data\compressed\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Weapons.json
+\data\compressed\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/Windows.json
+\js\plugins\SRD_AltMenuScreen_FF7.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/SRD_AltMenuScreen_FF7.js
+\js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/plugins.js
+\js\rpg_core.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_core.js
+\js\rpg_managers.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.03/rpg_managers.js
+<End of Version>
