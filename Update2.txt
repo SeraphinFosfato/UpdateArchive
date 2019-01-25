@@ -1,3 +1,18 @@
-<Version: 1.03>
-
+<Version: 1.035>
+\data\Items.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Items.json
+\data\DataEX.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/DataEX.json
+\data\Enemies.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Enemies.json
+\data\Map001.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map001.json
+\data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map002.json
+\data\Map003.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map003.json
+\data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map004.json
+\data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map005.json
+\data\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map006.json
+\data\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MapInfos.json
+\data\Notes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Notes.json
+\data\System.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/System.json
+\data\Troops.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Troops.json
+\data\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Weapons.json
+\data\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Windows.json
+\js\plugin.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/plugins.js
 <End of Version>
