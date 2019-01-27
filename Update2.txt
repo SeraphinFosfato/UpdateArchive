@@ -16,3 +16,23 @@
 \data\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Windows.json
 \js\plugin.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/plugins.js
 <End of Version>
+
+<Version: 1.035>
+\data\CommonEvents.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/CommonEvents.json
+\data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map002.json
+\data\Map003.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map003.json
+\data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map004.json
+\data\Map005.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map005.json
+\data\Map006.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map006.json
+\data\Map007.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map007.json
+\data\Map008.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map008.json
+\data\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/MapInfos.json
+\data\Notes.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Notes.json
+\data\Map002.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/Map002.json
+\img\characters\Damage3.rpgmvp https://github.com/SeraphinFosfato/Storage/blob/master/1.05/Damage3.rpgmvp?raw=true
+\img\characters\People5.rpgmvp https://github.com/SeraphinFosfato/Storage/blob/master/1.05/People5.rpgmvp?raw=true
+\js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/plugins.js
+\js\plugins\TerraxLighting.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.05/TerraxLighting.js
+\img\parallaxes\StarlitSky.rpgmvp https://github.com/SeraphinFosfato/Storage/blob/master/1.05/StarlitSky.rpgmvp?raw=true
+\audio\bgm\Dreamy-ambient-background-music-loop.rpgmvo https://github.com/SeraphinFosfato/Storage/blob/master/1.05/Dreamy-ambient-background-music-loop.rpgmvo?raw=true
+<End of Version>
