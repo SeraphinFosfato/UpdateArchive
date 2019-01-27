@@ -1,3 +1,4 @@
+
 <Version: 1.035>
 \data\Items.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Items.json
 \data\DataEX.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/DataEX.json
@@ -15,4 +16,16 @@
 \data\Weapons.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Weapons.json
 \data\Windows.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Windows.json
 \js\plugin.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/plugins.js
+<End of Version>
+
+<Version: 1.041>
+\js\plugins\MOG_AnimatedText.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_AnimatedText.js
+\js\plugins\MOG_BattleCursor.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_BattleCursor.js
+\js\plugins\MOG_PixiFilters.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_PixiFilters.js
+\data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map004.json
+\data\Map007.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map007.json
+\data\Map008.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map008.json
+\data\Map009.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map009.json
+\data\MapInfos.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MapInfos.json
+\js\plugins.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/plugins.js
 <End of Version>
