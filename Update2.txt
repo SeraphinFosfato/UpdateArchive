@@ -22,6 +22,8 @@
 \js\plugins\MOG_AnimatedText.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_AnimatedText.js
 \js\plugins\MOG_BattleCursor.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_BattleCursor.js
 \js\plugins\MOG_PixiFilters.js https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/MOG_PixiFilters.js
+\data\System.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/System.json
+\data\Map001.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map001.json
 \data\Map004.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map004.json
 \data\Map007.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map007.json
 \data\Map008.json https://raw.githubusercontent.com/SeraphinFosfato/Storage/master/1.04/Map008.json
